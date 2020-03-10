@@ -1,6 +1,6 @@
 /**
  * 10.03.2020
- * TreeSorter
+ * MergeSorter
  *
  * @author havlong
  * @version 1.0
