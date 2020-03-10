@@ -3,4 +3,4 @@ project(TreeSort)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TreeSort main.cpp measurement.cpp measurement.h TreeSorter.h)
+add_executable(TreeSort main.cpp measurement.cpp measurement.h TreeSorter.h MergeSorter.h)
